@@ -1,0 +1,5 @@
+/* minimal styles for demo */
+html,body,#__next { height:100%; }
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin:0; background:#f7fafc; color:#1a202c; }
+.input { display:block; margin:8px 0; padding:8px 10px; border-radius:6px; border:1px solid #e2e8f0; width:100%; max-width:420px; }
+.btn { background:#4f46e5; color:white; padding:8px 12px; border-radius:6px; border:none; cursor:pointer; }
