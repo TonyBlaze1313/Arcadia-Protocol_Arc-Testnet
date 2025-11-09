@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+python-dotenv
+pydantic
+requests
+web3==6.0.0
+eth-abi==3.0.2
+pytest
+boto3
+cryptography
+eth-keys
+eth-account
